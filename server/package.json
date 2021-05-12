@@ -24,7 +24,7 @@
     "koa-static": "^5.0.0",
     "koa2-cors": "^2.0.6",
     "mongoose": "^5.9.7",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
